@@ -8,12 +8,12 @@
 }
 
 /* Links */
-a {
+.header a {
   color: grey;
   text-decoration: none;
 }
 
-a:hover {
+.header a:hover {
   color: pink;
 }
 
@@ -68,4 +68,26 @@ a:hover {
 
 .side-menu label {
   font-size: 13px;
+}
+
+.product-menu {
+  margin-left: 4%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 20px;
+  column-gap: 50px;
+  row-gap: 30px;
+}
+
+.product-menu h2 {
+  font-size: 12px;
+}
+
+.single-product {
+  border: 1px gray;
+  border-style: ridge;
+}
+
+.content {
+  width: 210px;
 }

@@ -1,0 +1,46 @@
+{
+  "events_categories": [
+    {
+      "id": "wine",
+      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
+      "price": "37,40",
+      "pricePartner": "30,00",
+      "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "wine",
+      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
+      "price": "37,40",
+      "pricePartner": "30,00",
+      "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "wine",
+      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
+      "price": "37,40",
+      "pricePartner": "30,00",
+      "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "wine",
+      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
+      "price": "37,40",
+      "pricePartner": "30,00",
+      "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "wine",
+      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
+      "price": "37,40",
+      "pricePartner": "30,00",
+      "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": "wine",
+      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
+      "price": "37,40",
+      "pricePartner": "30,00",
+      "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    }
+  ]
+}
