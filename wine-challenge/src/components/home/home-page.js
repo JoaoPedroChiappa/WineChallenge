@@ -22,30 +22,35 @@ export const HomePage = ({ data }) => (
       <label htmlFor="priceRange5"> Acima de R$500 </label>
     </div>
 
-    <div className="product-menu">
-      {data?.map((ev) => (
-        <div key={ev.id}>
-          <Link href={`/events/${ev.id}`} passHref legacyBehavior>
-            <a href={`/events/${ev.id}`}>
-              <div className="single-product">
-                <div className="image">
-                  <Image
-                    width={250}
-                    height={200}
-                    alt={ev.title}
-                    src={ev.image}
-                  />
+    <div className="product">
+      <div className="product-found">
+        <p> 6 produtos encontrados </p>
+      </div>
+      <div className="product-menu">
+        {data?.map((ev) => (
+          <div key={ev.id}>
+            <Link href={`/events/${ev.id}`} passHref legacyBehavior>
+              <a href={`/events/${ev.id}`}>
+                <div className="single-product">
+                  <div className="image">
+                    <Image
+                      width={200}
+                      height={300}
+                      alt={ev.title}
+                      src={ev.image}
+                    />
+                  </div>
+                  <div className="content">
+                    <b> {ev.title} </b>
+                    <p> R${ev.price} </p>
+                  </div>
                 </div>
-                <div className="content">
-                  <h2> {ev.title} </h2>
-                  <p> R${ev.price} </p>
-                </div>
-              </div>
-              <button className="button-add"> ADICIONAR </button>
-            </a>
-          </Link>
-        </div>
-      ))}
+                <button className="button-add"> ADICIONAR </button>
+              </a>
+            </Link>
+          </div>
+        ))}
+      </div>
     </div>
   </div>
 );
