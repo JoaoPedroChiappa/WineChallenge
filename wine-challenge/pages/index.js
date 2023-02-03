@@ -15,10 +15,10 @@ export default function Home({ data }) {
 }
 
 export async function getServerSideProps() {
-  const { wine_products } = await import("../data/data.json");
+  const { wineProducts } = await import("../data/data.json");
   return {
     props: {
-      data: wine_products,
+      data: wineProducts,
     },
   };
 }
