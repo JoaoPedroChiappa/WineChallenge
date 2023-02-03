@@ -1,5 +1,6 @@
 import Head from "next/head";
 import { HomePage } from "../src/components/home/home-page";
+import Data from "../data/data.json";
 
 export default function Home({ data }) {
   return (
@@ -15,7 +16,7 @@ export default function Home({ data }) {
 }
 
 export async function getServerSideProps() {
-  const { wineProducts } = await import("../data/data.json");
+  const { wineProducts } = Data;
   return {
     props: {
       data: wineProducts,
