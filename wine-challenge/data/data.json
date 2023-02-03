@@ -1,46 +1,52 @@
 {
-  "events_categories": [
+  "wine_products": [
     {
       "id": "wine",
       "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
       "price": "37,40",
       "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png"
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
       "id": "wine2",
       "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
       "price": "37,40",
       "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png"
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
       "id": "wine3",
       "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
       "price": "37,40",
       "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png"
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
       "id": "wine4",
       "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
       "price": "37,40",
       "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png"
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
       "id": "wine5",
       "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
       "price": "37,40",
       "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png"
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
       "id": "wine6",
       "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
       "price": "37,40",
       "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png"
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     }
   ]
 }

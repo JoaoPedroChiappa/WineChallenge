@@ -29,8 +29,8 @@ export const HomePage = ({ data }) => (
       <div className="product-menu">
         {data?.map((ev) => (
           <div key={ev.id}>
-            <Link href={`/${ev.id}`} passHref legacyBehavior>
-              <a href={`/${ev.id}`}>
+            <Link href={`product/${ev.id}`} passHref legacyBehavior>
+              <a href={`product/${ev.id}`}>
                 <div className="single-product">
                   <div className="image">
                     <Image
