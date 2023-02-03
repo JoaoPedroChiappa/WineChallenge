@@ -6,9 +6,11 @@ export const SingleProduct = ({ data }) => (
   <>
     <div className="single-product-page">
       <div className="back-link">
-        <IoChevronBackOutline className="back-icon" />
         <Link href={"/"} passHref legacyBehavior>
-          <a href={"/"}> Voltar </a>
+          <a href={"/"}>
+            <IoChevronBackOutline className="back-icon" />
+            Voltar
+          </a>
         </Link>
       </div>
       <div className="single-product-content">

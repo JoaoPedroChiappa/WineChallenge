@@ -173,10 +173,15 @@ body {
   color: rgb(237, 32, 165);
 }
 
+.price-partner b {
+  color: black;
+  font-size: 10px;
+}
+
 .price-real {
   color: grey;
   position: relative;
-  bottom: 12px;
+  bottom: 5px;
   margin-bottom: 4%;
 }
 

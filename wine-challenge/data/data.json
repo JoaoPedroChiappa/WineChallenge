@@ -1,51 +1,51 @@
 {
   "wine_products": [
     {
-      "id": "wine",
-      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
-      "price": "37,40",
-      "pricePartner": "30,00",
+      "id": "image",
+      "title": "Image Dry red wine",
+      "price": "90,00",
+      "pricePartner": "37,50",
       "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
       "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
-      "id": "wine2",
-      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
-      "price": "37,40",
-      "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "id": "dompo",
+      "title": "Dompo sweet red wine",
+      "price": "60,00",
+      "pricePartner": "45,00",
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/domponew.png",
       "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
-      "id": "wine3",
-      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
-      "price": "37,40",
-      "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "id": "imageFortified",
+      "title": "Image fortified red wine",
+      "price": "80,90",
+      "pricePartner": "38,90",
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/image-original.png",
       "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
-      "id": "wine4",
-      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
+      "id": "altar",
+      "title": "Altar sweet red wine",
       "price": "37,40",
       "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/altar.png",
       "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
-      "id": "wine5",
-      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
-      "price": "37,40",
-      "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "id": "foryou",
+      "title": "For you sweet rosé wine",
+      "price": "125,00",
+      "pricePartner": "85,00",
+      "image": "http://alkovintages.com/wp-content/uploads/2019/09/for-you-.png",
       "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     },
     {
-      "id": "wine6",
-      "title": "Bacalhoa Meia Pipa Private Selection Castelão Syrah 2014",
-      "price": "37,40",
-      "pricePartner": "30,00",
-      "image": "http://alkovintages.com/wp-content/uploads/2019/09/dry-red.png",
+      "id": "imageDry",
+      "title": "Image dry white wine",
+      "price": "48,90",
+      "pricePartner": "25,20",
+      "image": "http://alkovintages.com/wp-content/uploads/2022/01/imagewhite.png",
       "review": "Produzido no terroir californiano, esse tinto mescla as variedades Zinfandel, Syrah, Cabernet Sauvignon e Merlot. Apothic é um vinho inspirado nas antigas Apothecas (adegas subterrâneas), um lugar misterioso onde há mais de 800 anos os viticultores misturavam e armazenavam seus cobiçados vinhos."
     }
   ]

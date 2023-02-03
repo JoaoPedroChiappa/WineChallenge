@@ -24,25 +24,28 @@ export const HomePage = ({ data }) => (
 
     <div className="product">
       <div className="product-found">
-        <p> 6 produtos encontrados </p>
+        <p> {data.length} produtos encontrados </p>
       </div>
       <div className="product-menu">
-        {data?.map((ev) => (
-          <div key={ev.id}>
-            <Link href={`product/${ev.id}`} passHref legacyBehavior>
-              <a href={`product/${ev.id}`}>
+        {data?.map((prod) => (
+          <div key={prod.id}>
+            <Link href={`product/${prod.id}`} passHref legacyBehavior>
+              <a href={`product/${prod.id}`}>
                 <div className="single-product">
                   <div className="image">
                     <Image
                       width={200}
                       height={300}
-                      alt={ev.title}
-                      src={ev.image}
+                      alt={prod.title}
+                      src={prod.image}
                     />
                   </div>
                   <div className="content">
-                    <b> {ev.title} </b>
-                    <p> R${ev.price} </p>
+                    <b> {prod.title} </b>
+                    <p className="price-partner">
+                      <b>SÓCIO WINE</b> R$ {prod.pricePartner}
+                    </p>
+                    <p className="price-real"> NÃO SÓCIO R$ {prod.price} </p>
                   </div>
                 </div>
                 <button className="button-add"> ADICIONAR </button>
