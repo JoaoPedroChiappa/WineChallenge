@@ -1,13 +1,12 @@
 import { SingleProduct } from "../../src/components/product/product-page";
 import Data from "../../data/data.json";
 
+const { wineProducts } = Data;
 const ProductPage = ({ data }) => <SingleProduct data={data} />;
 
 export default ProductPage;
 
 export function getStaticPaths() {
-  const { wineProducts } = Data;
-
   const allPaths = wineProducts.map((path) => {
     return {
       params: {
@@ -24,7 +23,6 @@ export function getStaticPaths() {
 
 export function getStaticProps(context) {
   const { id } = context.params;
-  const { wineProducts } = Data;
   const productData = wineProducts.find((prod) => id === prod.id);
 
   return {
